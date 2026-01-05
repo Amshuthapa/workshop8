@@ -1,0 +1,19 @@
+{
+    "name": "amshuthapa/workshop8",
+    "autoload": {
+        "psr-4": {
+            "Amshuthapa\\Workshop8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amsu Thapa",
+            "email": "amshuthapa2@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/view": "^12.44",
+        "illuminate/filesystem": "^12.44",
+        "illuminate/events": "^12.44"
+    }
+}
