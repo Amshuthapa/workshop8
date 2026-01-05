@@ -15,6 +15,15 @@
         <a href="?page=edit&id={{ $s['id'] }}">Edit</a>
         <a href="?page=delete&id={{ $s['id'] }}">Delete</a>
     </td>
+
+
+
+
+
+
+
+
+    
 </tr>
 @endforeach
 </table>
